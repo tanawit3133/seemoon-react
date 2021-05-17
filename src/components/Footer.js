@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container-footer">
         <div className="footer-row">
           <a href="https://seemoon.io/" className="footer-logo">
-            <img src="img/logo-footer.png" />
+            <img src="img/logo-footer.png" alt=""/>
           </a>
           <div className="footer-social">
             <a href="https://www.facebook.com/">
