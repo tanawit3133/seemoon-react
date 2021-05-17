@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
-import Burger from './components/Burger'
 import Footer from './components/Footer'
 import Header from './components/Header'
+import Submenu from './components/Submenu'
 import Contact from './contents/Contact'
 import Home from './contents/Home'
 
@@ -12,7 +12,7 @@ export default function App() {
     <Router>
     <div>
       <Header/>
-      <Burger/>
+      <Submenu/>
       <Route exact path="/">
         <Home/>
       </Route>

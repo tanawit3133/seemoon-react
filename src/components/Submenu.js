@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Burger() {
+export default function Submenu() {
   return (
     <div className="burger-menu">
       <ul>
