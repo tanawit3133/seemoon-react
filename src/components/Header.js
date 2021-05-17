@@ -6,8 +6,8 @@ export default function Header() {
         <div className="container-header">
           <div className="top-menu">
             <div className="left-top">
-              <a href="#" className="logo">
-                <img src="img/logo.png" />
+              <a href="https://seemoon.io" className="logo">
+                <img src="img/logo.png"  alt="" />
               </a>
               <div className="main-menu">
                 <ul>
