@@ -5,13 +5,13 @@ export default function Burger() {
     <div className="burger-menu">
       <ul>
         <li>
-          <a href="#">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
-          <a href="#">Whitepaper</a>
+          <a href="/whitepaper">Whitepaper</a>
         </li>
         <li>
-          <a href="#">Doc</a>
+          <a href="/doc">Doc</a>
         </li>
       </ul>
       <div className="footer-social">
