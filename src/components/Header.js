@@ -31,7 +31,7 @@ export default function Header() {
               </div>
             </div>
             <div className="right-top">
-              <a href="https://www.google.com/" target="_blank" className="metamask">
+              <a href="https://www.google.com/" className="metamask">
                 Connect Metamask
               </a>
             </div>

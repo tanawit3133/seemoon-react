@@ -13,10 +13,10 @@ export default function Home() {
                 Earning Interest by Deposit Cryptoassets.
               </h1>
               <div className="button-group">
-                <a href="#" className="launch-button wow fadeInUp">
+                <a href="/" className="launch-button wow fadeInUp">
                   Launch app
                 </a>
-                <a href="#" className="buy-button wow fadeInUp">
+                <a href="/" className="buy-button wow fadeInUp">
                   Buy Seemoon
                 </a>
               </div>
@@ -30,7 +30,7 @@ export default function Home() {
               <div className="bottom-text-stat">
                 <div className="a-block">
                   <div className="icon-circle">
-                    <img src="img/icon-tvl.png" />
+                    <img alt="" src="img/icon-tvl.png" />
                   </div>
                   <div className="text-zone">
                     <p>Total Value Locked</p>
@@ -40,7 +40,7 @@ export default function Home() {
                 {/* a block */}
                 <div className="a-block">
                   <div className="icon-circle">
-                    <img src="img/icon-ttv.png" />
+                    <img alt="" src="img/icon-ttv.png" />
                   </div>
                   <div className="text-zone">
                     <p>Total Trading Volume</p>
@@ -50,7 +50,7 @@ export default function Home() {
                 {/* a block */}
                 <div className="a-block">
                   <div className="icon-circle">
-                    <img src="img/icon-market.png" />
+                    <img alt="" src="img/icon-market.png" />
                   </div>
                   <div className="text-zone">
                     <p>See Market Cap</p>
@@ -79,12 +79,12 @@ export default function Home() {
           </div>
           <div className="row-of-service">
             <div className="white-service-box">
-              <img src="img/icon-farm.png" />
+              <img alt="" src="img/icon-farm.png" />
               <h3>Yield Farming</h3>
             </div>
             {/* service */}
             <div className="white-service-box">
-              <img src="img/icon-ex.png" />
+              <img alt="" src="img/icon-ex.png" />
               <h3>
                 Token Swap
                 <br />
@@ -93,12 +93,12 @@ export default function Home() {
             </div>
             {/* service */}
             <div className="white-service-box">
-              <img src="img/icon-money.png" />
+              <img alt="" src="img/icon-money.png" />
               <h3>Liquidity Pool</h3>
             </div>
             {/* service */}
             <div className="white-service-box">
-              <img src="img/icon-chain.png" />
+              <img alt="" src="img/icon-chain.png" />
               <h3>
                 Token List
                 <br />
@@ -118,7 +118,7 @@ export default function Home() {
             <h2>Roadmap</h2>
           </div>
           <div className="roadmap-row road-may">
-            <img src="img/road-may.png" />
+            <img alt="" src="img/road-may.png" />
             <div className="road-content">
               <h3>2021</h3>
               <ul>
@@ -129,7 +129,7 @@ export default function Home() {
           </div>
           {/* row */}
           <div className="roadmap-row road-june">
-            <img src="img/road-june.png" />
+            <img alt="" src="img/road-june.png" />
             <div className="road-content">
               <ul>
                 <li>Launch Seemoon Pool and Seemoon Exchange</li>
@@ -139,7 +139,7 @@ export default function Home() {
           {/* row */}
           <div className="clearfix" />
           <div className="roadmap-row road-july">
-            <img src="img/road-july.png" />
+            <img alt="" src="img/road-july.png" />
             <div className="road-content">
               <ul>
                 <li>Launch exchange protocol.</li>
@@ -155,7 +155,7 @@ export default function Home() {
           </div>
           {/* row */}
           <div className="roadmap-row road-august">
-            <img src="img/road-august.png" />
+            <img alt="" src="img/road-august.png" />
             <div className="road-content">
               <ul>
                 <li>List token on pancakswap.finance, bitmart.com</li>
@@ -164,7 +164,7 @@ export default function Home() {
           </div>
           {/* row */}
           <div className="roadmap-row road-september">
-            <img src="img/road-september.png" />
+            <img alt="" src="img/road-september.png" />
             <div className="road-content">
               <ul>
                 <li>List token on gate.io, burency.com</li>
@@ -174,7 +174,7 @@ export default function Home() {
           </div>
           {/* row */}
           <div className="roadmap-row road-october">
-            <img src="img/road-october.png" />
+            <img alt="" src="img/road-october.png" />
             <div className="road-content">
               <ul>
                 <li>List token on zbg.io, gemini.com</li>
@@ -184,7 +184,7 @@ export default function Home() {
           </div>
           {/* row */}
           <div className="roadmap-row road-november">
-            <img src="img/road-november.png" />
+            <img alt="" src="img/road-november.png" />
             <div className="road-content">
               <ul>
                 <li>List token on letsexchange.io, whitebit.com</li>
@@ -194,7 +194,7 @@ export default function Home() {
           </div>
           {/* row */}
           <div className="roadmap-row road-december">
-            <img src="img/road-december.png" />
+            <img alt="" src="img/road-december.png" />
             <div className="road-content">
               <ul>
                 <li>List token on Binance, Uniswap</li>
@@ -215,9 +215,9 @@ export default function Home() {
             </p>
           </div>
           <div className="row-of-social">
-            <a href="#" className="one-social">
+            <a href="/" className="one-social">
               <div className="the-social-icon">
-                <img src="img/icon-facebook.png" />
+                <img alt="" src="img/icon-facebook.png" />
               </div>
               <h3>Facebook</h3>
               <p>
@@ -227,9 +227,9 @@ export default function Home() {
               </p>
             </a>
             {/* one social */}
-            <a href="#" className="one-social">
+            <a href="/" className="one-social">
               <div className="the-social-icon">
-                <img src="img/icon-discord.png" />
+                <img alt="" src="img/icon-discord.png" />
               </div>
               <h3>Discord</h3>
               <p>
@@ -241,9 +241,9 @@ export default function Home() {
               </p>
             </a>
             {/* one social */}
-            <a href="#" className="one-social">
+            <a href="/" className="one-social">
               <div className="the-social-icon">
-                <img src="img/icon-twitter.png" />
+                <img alt="" src="img/icon-twitter.png" />
               </div>
               <h3>Twitter</h3>
               <p>
@@ -253,9 +253,9 @@ export default function Home() {
               </p>
             </a>
             {/* one social */}
-            <a href="#" className="one-social">
+            <a href="/" className="one-social">
               <div className="the-social-icon">
-                <img src="img/icon-discourse.png" />
+                <img alt="" src="img/icon-discourse.png" />
               </div>
               <h3>Discourse</h3>
               <p>
@@ -267,9 +267,9 @@ export default function Home() {
               </p>
             </a>
             {/* one social */}
-            <a href="#" className="one-social">
+            <a href="/" className="one-social">
               <div className="the-social-icon">
-                <img src="img/icon-reddit.png" />
+                <img alt="" src="img/icon-reddit.png" />
               </div>
               <h3>Reddit</h3>
               <p>
@@ -279,9 +279,9 @@ export default function Home() {
               </p>
             </a>
             {/* one social */}
-            <a href="#" className="one-social">
+            <a href="/" className="one-social">
               <div className="the-social-icon">
-                <img src="img/icon-telegram.png" />
+                <img alt="" src="img/icon-telegram.png" />
               </div>
               <h3>Telegram</h3>
               <p>
