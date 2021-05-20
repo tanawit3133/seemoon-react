@@ -6,19 +6,19 @@ export default function Footer() {
       <div className="container-footer">
         <div className="footer-row">
           <a href="https://seemoon.io/" className="footer-logo">
-            <img src="img/logo-footer.png" alt=""/>
+            <img src="img/logo-footer.png" alt="" />
           </a>
           <div className="footer-social">
-            <a href="https://www.facebook.com/">
+            <a href="https://www.facebook.com/SeeMoon-103299888615333">
               <i className="fab fa-facebook-f" />
             </a>
-            <a href="https://www.instagram.com/">
+            <a href="https://www.instagram.com/seemoon.io">
               <i className="fab fa-instagram" />
             </a>
-            <a href="https://www.youtube.com/">
+            <a href="https://www.youtube.com/channel/UClTWXAN6186h7-ZOxODrbSw">
               <i className="fab fa-youtube" />
             </a>
-            <a href="https://twitter.com/">
+            <a href="https://twitter.com/SeeMoon_io">
               <i className="fab fa-twitter" />
             </a>
             <a href="https://telegram.org/">
